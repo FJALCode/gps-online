@@ -1,8 +1,7 @@
 # GPSOnline
-Landing Page de GPS Online
+Landing Page de GPS Online. Puedes visualizar la sitio en Github Pages dando [click acá](https://fjalcode.github.io/gps-online/)
 
-Puedes visualizar la sitio web dando [click acá](https://fjalcode.github.io/my-profile/)
-
+<img src="assets/img/responsive-test.png" width="900px;"/>
 
 > Previsualización usando [Am I Responsive?](http://ami.responsivedesign.is/)
 
